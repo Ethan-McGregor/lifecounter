@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Life Counter</string>
+    <string name="lblPlayer1">Player 1</string>
+    <string name="lblPlayer2">Player 2</string>
+    <string name="lblPlayer3">Player 3</string>
+    <string name="lblPlayer4">Player 4</string>
+    <string name="action_settings">Settings</string>
+    <string name="minus_five">-5</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="plusFive">+5</string>
+    <string name="lives">Lives: 20</string>
+    <string name="reset">Reset Game</string>
+</resources>
